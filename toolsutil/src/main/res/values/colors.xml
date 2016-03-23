@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="loading_color">#03A9F4</color>
+    <!-- 通用的文字颜色-->
+    <color name="common_orange">#f87b29</color>
+    <color name="common_light_yellow">#ffffcd</color>
+    <color name="common_red">#e33125</color>
+    <color name="common_blue">#00a2ff</color>
+    <color name="common_dark_black">#333</color>
+    <color name="common_middle_black">#666</color>
+    <color name="common_light_black">#999</color>
+    <color name="common_divider">#d9d9d9</color>
+    <color name="common_bg">#f1f1f1</color>
+    <color name="common_bg_box">#999999</color>
+    <color name="transparency_90_black">#e7000000</color>
+</resources>
